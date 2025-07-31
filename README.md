@@ -1,14 +1,2 @@
-Python Assignment – OSS Lab
-This repository contains Python solutions for a set of beginner-to-intermediate programming problems. It covers important topics such as lists, dictionaries, functions, file handling, string operations, and custom implementations of map, filter, and more.
-
-Topics Covered
-✅ List & Dictionary operations
-🔁 Functions: duplicate, group, lensort, extsort
-📄 File handling: open, read, write, wrap, reverse lines
-🧠 String logic: mutate, nearly_equal, triplet, anagrams
-📊 Character frequency and file type detection
-🧪 Custom map() and filter() using list comprehensions
-
-📘 Use Case
-Perfect for college lab assignments, coding practice, and Python beginners.
+📘 This repository contains a collection of Python programming solutions for lab assignments and practice problems, especially suited for students learning data structures and basic scripting. 🐍 It covers key topics like list and dictionary operations, file handling with open, read, write, and writelines, as well as functions for processing duplicates, sorting by length, grouping lists, and sorting filenames by extension. 🔁 Functional programming concepts are reinforced through custom implementations of Python’s built-in map() and filter() using list comprehensions. 🧠 You’ll also find logic-based problems such as generating triplets (a + b = c), detecting anagrams, checking for nearly equal strings using single-character mutations (insert, delete, replace, swap), and analyzing character frequencies to guess file types like .py, .c, or .txt. 📄 The repo includes useful tools like wrap.py for wrapping long lines and scripts to print file content in reverse order. 🚀 This assignment is ideal for OSS Lab practice, coding interview prep, or anyone strengthening their Python fundamentals. All code is written in Python 3 and shared under the MIT License. 💻
 
